@@ -1,5 +1,7 @@
 # frontend-task
-Screenshot of Youtube UI
+I have created a Youtube User Interface using HTML and CSS.
+# Screenshot
+Screenshots of Youtube UI
 
 ![screenshot1](https://user-images.githubusercontent.com/80042698/112303153-fad87a80-8cc1-11eb-9504-2af6b4de714e.png)
 
